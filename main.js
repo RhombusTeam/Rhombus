@@ -12,11 +12,11 @@ updateToStorage(backpack);
 
 kaboom({
     global: true,
-    //width: 1280,
-    //height: 720,
+    width: 1280,
+    height: 720,
     debug: true,
     background: [50, 50, 50],
-    //scale: 1,
+    scale: 1,
     font: "sink",
 });
 
