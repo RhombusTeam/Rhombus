@@ -127,6 +127,12 @@ h3{
     justify-content: center;
   }
 
+  canvas {
+    width: 100%;
+    max-width: 1280px;
+  }
+  /*make it fine on mobile*/
+
   .about {
     grid-area: about;
     display: grid;
