@@ -126,10 +126,6 @@ h3{
     align-items: center;
     justify-content: center;
   }
-  /*make it look fine on mobile*/
-  canvas {
-    width: 100%;
-  }
 
   .about {
     grid-area: about;
