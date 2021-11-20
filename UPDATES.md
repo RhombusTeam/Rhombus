@@ -7,4 +7,5 @@
 `5` Added player sprites and animations + two new types of walls     
 `6` Added win/lose screens, new enemy - GHOST, + bug fixes   
 `7` Added health bar + fixes
+`8` Major bugfixes
  
