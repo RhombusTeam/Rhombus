@@ -119,13 +119,14 @@ h3{
     }    
   }
 
+ 
   #gameContainer {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-
+  /*make it look fine on mobile*/
   canvas {
     width: 100%;
   }
